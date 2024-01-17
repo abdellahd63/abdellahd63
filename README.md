@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently Software enginnering student at **University of BLIDA 1**
 
+- 📱 I’m Mobile application developer at **Boumare Company**
+
 - 👯 I’m Founder of **Adcodes**
 
 - 👨‍💻 All of my projects are available at [https://abdellahd63.github.io/my-portfolio/](https://abdellahd63.github.io/my-portfolio/)
