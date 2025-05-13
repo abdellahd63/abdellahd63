@@ -7,7 +7,7 @@
 
 - 📱 I’m Mobile application developer at **Bomare Company**
 
-- 👯 I’m Founder of **Adcodes**
+- 👯 I’m CO-Founder of **SKRIPT TECHNOLOGY & SKRIPT ACADEMY**
 
 - 👨‍💻 All of my projects are available at [https://abdellahd63.github.io/my-portfolio/](https://abdellahd63.github.io/my-portfolio/)
 
