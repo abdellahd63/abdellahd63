@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Software enginnering student at **University of BLIDA 1**
 
-- 📱 I’m Mobile application developer at **Boumare Company**
+- 📱 I’m Mobile application developer at **Bomare Company**
 
 - 👯 I’m Founder of **Adcodes**
 
