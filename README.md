@@ -1,18 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdallah Dekkiche</h1> <h3 align="center">A Passionate Software Engineer from Algeria</h3>
+🔭 I’m a dedicated Software Engineer with a strong focus on modern mobile and frontend development.
 
-<h1 align="center">Hi 👋, I'm Abdallah Dekkiche</h1>
-<h3 align="center">A passionate Software enginneer from ALGERIA</h3>
+📱 Currently working full-time as a Mobile Application & Frontend Developer at Bomare Company, where I design and build engaging, user-friendly interfaces for both web and mobile platforms.
 
-- 🔭 I’m currently Software enginnering student at **University of BLIDA 1**
+🚀 Responsible for publishing applications on both Google Play Store and Apple App Store.
 
-- 📱 I’m Mobile application developer at **Bomare Company**
+👨‍💼 Co-Founder of SKRIPT TECHNOLOGY and SKRIPT ACADEMY, where we empower developers through education and innovative tech solutions.
 
-- 👯 I’m CO-Founder of **SKRIPT TECHNOLOGY & SKRIPT ACADEMY**
+💻 You can explore my projects and portfolio here: https://abdellahd63.github.io/my-portfolio/
 
-- 👨‍💻 All of my projects are available at [https://abdellahd63.github.io/my-portfolio/](https://abdellahd63.github.io/my-portfolio/)
-
-- 📫 How to reach me **abdellahham06@gmail.com**
-
+📫 Feel free to reach out: abdellahham06@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdallah dekkiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah dekkiche" height="30" width="40" /></a>
